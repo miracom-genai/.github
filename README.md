@@ -1,1 +1,1 @@
-# .github
+# Miracom GenAI
